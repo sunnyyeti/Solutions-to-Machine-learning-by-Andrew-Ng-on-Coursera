@@ -1,4 +1,4 @@
-# Answers for assignments of Machine learning by Andrew Ng on Coursera.
+# Answers to assignments of Machine learning by Andrew Ng on Coursera.
 # [I am the course link](https://www.coursera.org/learn/machine-learning)
 ### Assignment1 
 1. Linear Regression with one variable
