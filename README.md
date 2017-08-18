@@ -2,4 +2,6 @@
 # [I am the course link](https://www.coursera.org/learn/machine-learning)
 ## Assignment 1
 ### Linear regression
+1. Linear regression with one variable
+2. Linear regression with multiple variables
 
